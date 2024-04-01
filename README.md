@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I'm a passionate developer from Sri Lanka, enthusiastic about creating innovative solutions and contributing to the world of technology.
+#  🎮About Me:
+💻 I'm a passionate developer from Sri Lanka, enthusiastic about creating innovative solutions and contributing to the world of technology.
 
 
 ## 🌐 Socials:
