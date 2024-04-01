@@ -1,14 +1,8 @@
-<h1 align="center">🎮About Me:</h1>
-
-###
+<h1 align="center">👨‍💻About Me:</h1>
 
 <p align="center">💻 I'm a passionate developer from Sri Lanka, enthusiastic about creating innovative solutions and contributing to the world of technology.</p>
 
-###
-
 <h1 align="center">🌐Socials:</h1>
-
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
@@ -18,11 +12,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="37" height="25" alt="medium logo"  />
 </div>
 
-###
-
 <h1 align="center">💻 Tech Stack:</h1>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -68,14 +58,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
 
-###
-
 <h1 align="center">📊 GitHub Stats:</h1>
-
-###
-
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@dev.isururoy&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-isururoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-isururoy&theme=dark&hide_border=false"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-isururoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
 
-###
+<h3 align="center">🔝 Top Contributed repositories</h3>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Dev-isururoy&limit=5&theme=dark&combine_all_yearly_contributions=true">
+</div>
+
+---
+
+<div align="center">
+    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Dev-isururoy&icon=5&color=0" alt="visit count"></a>
+</div>
